@@ -7,4 +7,4 @@ initials = (name) => {
     } 
     return name.join('.')
 }
-initials('')
+console.log(initials('Michael Bar'))

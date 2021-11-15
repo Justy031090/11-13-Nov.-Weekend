@@ -10,4 +10,4 @@ longestWord = (word) =>{
         }
     }return longest.filter((value,index) => longest.indexOf(value) === index).join (' ')
 } ;
-longestWord('The longest word in the string is --- longest')
+longestWord('The longest word in the string is - longest')
